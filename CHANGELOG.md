@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.9.0](https://github.com/gujikabeepbop/stasharr/compare/v2.8.0...v2.9.0) (2025-05-05)
+
+
+### Features
+
+* heaven ([6d0e385](https://github.com/gujikabeepbop/stasharr/commit/6d0e385d9fa795c1bb7b46e5f27f5528dea410b0))
+
 ## [2.8.0](https://github.com/gujikabeepbop/stasharr/compare/v2.7.1...v2.8.0) (2025-05-05)
 
 
