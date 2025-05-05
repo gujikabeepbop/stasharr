@@ -21,7 +21,7 @@ This userscript enables integration with your self-hosted Whisparr (v3+ only) an
 ## Installation
 
 1. **Install [Tampermonkey](https://www.tampermonkey.net/)** or **[Violentmonkey](https://violentmonkey.github.io/)**: If you haven't already, install your favorite browser extension.
-2. **Install Stasharr**: Click [`stasharr.user.js`](https://github.com/enymawse/stasharr/releases/latest/download/stasharr.user.js) to install automatically.
+2. **Install Stasharr**: Click [`stasharr.user.js`](https://github.com/gujikabeepbop/stasharr/releases/latest/download/stasharr.user.js) to install automatically.
 
 - The userscript extension should prompt to install, choose to install.
 - Installing this way will also ensure you get updates as they are released.
