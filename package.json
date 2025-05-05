@@ -18,7 +18,7 @@
     "url": "https://github.com/gujikabeepbop/stasharr"
   },
   "keywords": [],
-  "author": "Mick Mawse | GitHub:@enymawse",
+  "author": "Mick Mawse | GitHub:@enymawse and gujikabeepbop",
   "license": "MIT",
   "lint-staged": {
     "**/*": "prettier --write --ignore-unknown"
